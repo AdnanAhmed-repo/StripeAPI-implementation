@@ -1,1 +1,1 @@
-# StripeAPI-implementation
+# StripeAPI-implementation in react
